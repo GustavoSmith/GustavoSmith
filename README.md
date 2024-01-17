@@ -9,15 +9,13 @@ En mi tiempo libre juego, miro series y programo.
 <p></p>
 
 ## 💡 Algunos datos...
-👩‍💻 Trabajo en UO Solutions como Frontend Developer.
+👩‍💻 Trabajo en Ecomm-App como Frontend Developer.
 
-🧠 Estoy haciendo un <a href="https://www.udemy.com/course/react-cero-experto/" target="_blank" rel="noreferrer">curso</a> en Udemy de React.
+🧠 Sigo aprendiendo React todos los días.
 
-🤔 Eventualmente me gustaría aprender TypeScript y backend en general.
+🤔 Eventualmente backend con NodeJS.
 
 ⚡️ Tengo muchas ganas de hacer proyectos con <a href="https://nextjs.org/" target="_blank" rel="noreferrer">Next.js</a> y con <a href="https://astro.build/" target="_blank" rel="noreferrer">Astro</a>.
-
-🤣 Una vez hice un <a href="https://youtu.be/tGHUBzMO9Hw" target="_blank" rel="noreferrer">video</a> sobre programación... 
 
 📫 Contactame en <a href="https://www.linkedin.com/in/gustavobsmith/" target="_blank" rel="noreferrer"> LinkedIn! </a>
 
