@@ -52,14 +52,3 @@ En mi tiempo libre juego, miro series y programo.
   </a> 
   
 </p>
-
-# 📖 Portfolio coming soon!
-
-## 💾 Algunos datos
-
-<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavosmith&theme=dark" alt="gustavosmith" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSmith&layout=compact&theme=dark" />
-
-<div align="center">
-<img width="75%" src="https://github-readme-stats.vercel.app/api?username=GustavoSmith&show_icons=true&theme=dark" />
-</div>
